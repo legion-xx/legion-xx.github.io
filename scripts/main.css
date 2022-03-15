@@ -2,6 +2,7 @@
 STYLE
 */
 
-h1 {
-    color: red;
+html, body {
+    background: black;
+    color: white;
 }
